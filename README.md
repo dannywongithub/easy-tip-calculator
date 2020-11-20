@@ -1,8 +1,6 @@
 # easy-tip-calculator
 Calculate tips the easy way with this calculator.
 
-Yes, include everything important about the project, improvements, known bugs, how it works, and how to run it.
-
 ## Getting Started
 
 These instructions will get you using the calculator in seconds.
